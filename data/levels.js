@@ -5,8 +5,8 @@ define(['mozart'], function (mozart) {
 		"instructions": `
 			<h1>Level 1</h1>
 			<p>
-			Beep boop! If you don't know what JavaScript is then watch <a href="https://www.youtube.com/watch?v=Ukg_U3CnJWI" target="_blank">this 12 minute video</a>.<br>
-			Now that that's out of the way and you kinda sorta know what JavaScript is, let's get started.
+			Beep boop! Si no sabeu què és el JavaScript, mireu-ho a <a href="https://www.youtube.com/watch?v=Ukg_U3CnJWI" target="_blank">this 12 minute video</a>.<br>
+			Ara que ja ho teniu controlat.. comencem!
 			<br>
 			Every level has its separate instructions as there's too much to learn at once.
 			<br><br>Click on the Console tab where it says: <code>robot.move(10);</code> and then hit Enter.
